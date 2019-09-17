@@ -16,6 +16,11 @@
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
+       <groupId>com.google.appengine</groupId>
+       <artifactId>appengine-maven-plugin</artifactId>
+       <version>1.9.76</version>
+      </plugin>
+      <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.6.1</version>
         <configuration>
