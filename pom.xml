@@ -3,7 +3,6 @@
   <groupId>DemoPipelineJava</groupId>
   <artifactId>DemoPipelineJava</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
   <packaging>war</packaging>
   <dependencies>
   	<dependency>
